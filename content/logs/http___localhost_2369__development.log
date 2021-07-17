@@ -1,0 +1,66 @@
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Ghost is running in development...","time":"2021-07-17T09:33:44.711Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Listening on: 127.0.0.1:2369","time":"2021-07-17T09:33:44.712Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Url configured as: http://localhost:2369/","time":"2021-07-17T09:33:44.713Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Ctrl+C to shut down","time":"2021-07-17T09:33:44.713Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Ghost server started in 0.635s","time":"2021-07-17T09:33:44.716Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":40,"msg":"Database state requires initialisation.","time":"2021-07-17T09:33:45.023Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: posts","time":"2021-07-17T09:33:46.027Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: posts_meta","time":"2021-07-17T09:33:46.033Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: users","time":"2021-07-17T09:33:46.038Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: posts_authors","time":"2021-07-17T09:33:46.042Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: roles","time":"2021-07-17T09:33:46.045Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: roles_users","time":"2021-07-17T09:33:46.049Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: permissions","time":"2021-07-17T09:33:46.051Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: permissions_users","time":"2021-07-17T09:33:46.054Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: permissions_roles","time":"2021-07-17T09:33:46.056Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: settings","time":"2021-07-17T09:33:46.058Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: tags","time":"2021-07-17T09:33:46.060Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: posts_tags","time":"2021-07-17T09:33:46.064Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: invites","time":"2021-07-17T09:33:46.066Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: brute","time":"2021-07-17T09:33:46.070Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: sessions","time":"2021-07-17T09:33:46.071Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: integrations","time":"2021-07-17T09:33:46.074Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: webhooks","time":"2021-07-17T09:33:46.076Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: api_keys","time":"2021-07-17T09:33:46.078Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2021-07-17T09:33:46.081Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members","time":"2021-07-17T09:33:46.085Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: products","time":"2021-07-17T09:33:46.091Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: benefits","time":"2021-07-17T09:33:46.095Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: products_benefits","time":"2021-07-17T09:33:46.099Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_products","time":"2021-07-17T09:33:46.101Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_payment_events","time":"2021-07-17T09:33:46.104Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_login_events","time":"2021-07-17T09:33:46.106Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_email_change_events","time":"2021-07-17T09:33:46.107Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_status_events","time":"2021-07-17T09:33:46.109Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_paid_subscription_events","time":"2021-07-17T09:33:46.110Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: labels","time":"2021-07-17T09:33:46.112Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_labels","time":"2021-07-17T09:33:46.115Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_stripe_customers","time":"2021-07-17T09:33:46.117Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2021-07-17T09:33:46.120Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: members_subscribe_events","time":"2021-07-17T09:33:46.123Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: stripe_products","time":"2021-07-17T09:33:46.125Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: stripe_prices","time":"2021-07-17T09:33:46.127Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: actions","time":"2021-07-17T09:33:46.131Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: emails","time":"2021-07-17T09:33:46.135Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: email_batches","time":"2021-07-17T09:33:46.142Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: email_recipients","time":"2021-07-17T09:33:46.144Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: tokens","time":"2021-07-17T09:33:46.152Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Creating table: snippets","time":"2021-07-17T09:33:46.155Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Model: Product","time":"2021-07-17T09:33:46.162Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Model: Tag","time":"2021-07-17T09:33:46.182Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Model: Role","time":"2021-07-17T09:33:46.188Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Model: Permission","time":"2021-07-17T09:33:46.208Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Model: User","time":"2021-07-17T09:33:46.400Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Model: Post","time":"2021-07-17T09:34:09.114Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Model: Integration","time":"2021-07-17T09:34:09.651Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Relation: Role to Permission","time":"2021-07-17T09:34:09.675Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Relation: Post to Tag","time":"2021-07-17T09:34:09.871Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Relation: User to Role","time":"2021-07-17T09:34:09.899Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Database is in a ready state.","time":"2021-07-17T09:34:10.055Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Ghost database ready in 25.974s","time":"2021-07-17T09:34:10.055Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Ghost booted in 28.532s","time":"2021-07-17T09:34:12.614Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Adding offloaded job to the queue","time":"2021-07-17T09:34:12.618Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":30,"msg":"Scheduling job update-check at 17 37 23 * * *. Next run on: Sat Jul 17 2021 23:37:17 GMT+0800 (China Standard Time)","time":"2021-07-17T09:34:12.628Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":40,"msg":"Ghost is shutting down","time":"2021-07-17T09:34:27.665Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":40,"msg":"Ghost has shut down","time":"2021-07-17T09:34:27.667Z","v":0}
+{"name":"Log","hostname":"CopperfieldsMBP","pid":6351,"level":40,"msg":"Ghost was running for a few seconds","time":"2021-07-17T09:34:27.668Z","v":0}
