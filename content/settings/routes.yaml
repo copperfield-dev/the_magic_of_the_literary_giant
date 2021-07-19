@@ -4,6 +4,14 @@ collections:
   /:
     permalink: /{slug}/
     template: index
+  /play/:
+    permalink: /play/{slug}/
+    template: play
+    filter: primary_tag:play
+  /travel/:
+    permalink: /travel/{slug}/
+    template: travel
+    filter: primary_tag:travel
 
 taxonomies:
   tag: /tag/{slug}/
