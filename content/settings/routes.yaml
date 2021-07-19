@@ -1,9 +1,9 @@
 routes:
-
+  /: home
 collections:
-  /:
-    permalink: /{slug}/
-    template: index
+  # /:
+  #   permalink: /{slug}/
+  #   template: index
   /play/:
     permalink: /play/{slug}/
     template: play
