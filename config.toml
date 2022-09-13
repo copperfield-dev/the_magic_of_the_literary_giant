@@ -28,6 +28,7 @@ canonifyurls = true
 [taxonomies]
   tag = "tags"
   category = "categories"
+  series = "series"
   archive = "archives"
 
 # ------
@@ -69,24 +70,30 @@ canonifyurls = true
   url = "/"
 [[menu.main]]
   weight = 2
+  identifier = "series"
+  name = "Series"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  url = "/series"
+[[menu.main]]
+  weight = 3
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 [[menu.main]]
-  weight = 3
+  weight = 4
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
 [[menu.main]]
-  weight = 4
+  weight = 5
   identifier = "archives"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
   url = "/archives"
 [[menu.main]]
-  weight = 5
+  weight = 6
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
